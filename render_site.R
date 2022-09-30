@@ -2,7 +2,10 @@
 library(rmarkdown)
 library(knitr)
 
-rmarkdown::render_site(encoding = "UTF-8")
+# clean_site()
+
+rmarkdown::render_site(envir = new.env(),
+                       encoding = "UTF-8")
 
 
 ## sources:

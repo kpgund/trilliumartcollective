@@ -1,5 +1,4 @@
-name: "Trilliam Art Collective"                                # CHANGE HERE
-output_dir: "."
+name: "Trilliam Art Collective" 
 navbar:
   title: "Trilliam Art Collective"                             # CHANGE HERE
   type: inverse
@@ -16,5 +15,3 @@ output:
       css: style.css
       theme: readable
       highlight: tango
-      toc: false
-      toc_float: false
