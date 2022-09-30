@@ -6,10 +6,10 @@ navbar:
   left:
     - text: "Home"
       icon: fa-home
-      href: sites_/index.html
+      href: index.html
     - text: "Who We Are"
       icon: fa-user
-      href: sites_/whoweare.html
+      href: whoweare.html
 output:
   html_document:
       includes:
