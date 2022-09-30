@@ -1,0 +1,9 @@
+---
+title: "Who We Are"
+output:
+  html_document
+---
+
+## We are group of artists looking to share our work. Check back soon for more information 
+
+### this site is under construction
