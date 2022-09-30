@@ -1,14 +1,15 @@
-name: "Trilliam Art Collective" 
+name: "Trilliam Art Collective"                                # CHANGE HERE
+output_dir: "."
 navbar:
   title: "Trilliam Art Collective"                             # CHANGE HERE
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
-      href: index.html
+      href: sites_/index.html
     - text: "Who We Are"
       icon: fa-user
-      href: whoweare.html
+      href: sites_/whoweare.html
 output:
   html_document:
       includes:
