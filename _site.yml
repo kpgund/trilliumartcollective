@@ -13,6 +13,5 @@ navbar:
 output:
   html_document:
       includes:
-      css: style.css
-      theme: readable
+      css: TACstyle.css
       highlight: tango
