@@ -14,4 +14,5 @@ output:
   html_document:
       includes:
       css: TACstyle.css
+      theme: readable
       highlight: tango

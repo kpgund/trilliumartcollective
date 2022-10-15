@@ -1,10 +1,9 @@
 ---
-title: "index"
+title: "&nbsp;"
 output:
   html_document
 ---
 
-## Welcome
-
-## this site is under construction
+# Welcome \
+## This site is currently under construction
 
