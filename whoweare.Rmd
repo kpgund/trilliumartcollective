@@ -1,9 +1,0 @@
----
-title: "&nbsp;"
-output:
-  html_document:
-    includes:
-      before_body: TAC_artist_descript.html
----
-
-## We are group of artists looking to share our work. Check back soon for more information. 
